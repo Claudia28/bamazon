@@ -1,2 +1,2 @@
 # bamazon
-mock amazon with mysql/node.js
+mock amazon storefront with mysql/node.js packages
